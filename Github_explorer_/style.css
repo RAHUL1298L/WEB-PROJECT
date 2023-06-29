@@ -6,15 +6,15 @@ body {
   background-color: #26272b;
 }
 .header {
-  background-image: url("./src/explorer.jpg");
+  background-image: url("./src/github.png");
   background-position: top center;
-  height: 100vh;
+  height: 80vh;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 .search-box {
-  padding-top: 60vh;
+  padding-top: 105vh;
   box-sizing: border-box;
   width: fit-content;
   height: fit-content;
